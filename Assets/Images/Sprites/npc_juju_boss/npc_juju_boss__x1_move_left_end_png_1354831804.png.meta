@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 4cbe5a1fa7ec549959a87170468d264c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4269937559210779430
+    second: npc_juju_boss__x1_move_left_end_png_1354831804_0
+  - first:
+      213: 5998279808829234072
+    second: npc_juju_boss__x1_move_left_end_png_1354831804_1
+  - first:
+      213: 5971447179664857467
+    second: npc_juju_boss__x1_move_left_end_png_1354831804_2
+  - first:
+      213: 7357400458106694455
+    second: npc_juju_boss__x1_move_left_end_png_1354831804_3
+  - first:
+      213: -3719712433997994111
+    second: npc_juju_boss__x1_move_left_end_png_1354831804_4
+  - first:
+      213: -2503433589945786409
+    second: npc_juju_boss__x1_move_left_end_png_1354831804_5
+  - first:
+      213: -7649471392068458031
+    second: npc_juju_boss__x1_move_left_end_png_1354831804_6
+  - first:
+      213: -1923209797312730777
+    second: npc_juju_boss__x1_move_left_end_png_1354831804_7
+  - first:
+      213: 6214546458066610025
+    second: npc_juju_boss__x1_move_left_end_png_1354831804_8
+  - first:
+      213: -1496599742050148947
+    second: npc_juju_boss__x1_move_left_end_png_1354831804_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_move_left_end_png_1354831804_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 117
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc942ab9622eb4c0800000000000000
+      internalID: -4269937559210779430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_move_left_end_png_1354831804_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 116
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b1aa4b4bb2e3350800000000000000
+      internalID: 5998279808829234072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_move_left_end_png_1354831804_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 116
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b799ee26297ded250800000000000000
+      internalID: 5971447179664857467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_move_left_end_png_1354831804_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 116
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73beeb74cbcba1660800000000000000
+      internalID: 7357400458106694455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_move_left_end_png_1354831804_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 116
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18722f8cf3de06cc0800000000000000
+      internalID: -3719712433997994111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_move_left_end_png_1354831804_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df1088e964024dd0800000000000000
+      internalID: -2503433589945786409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_move_left_end_png_1354831804_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d92f3c2c4e97d590800000000000000
+      internalID: -7649471392068458031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_move_left_end_png_1354831804_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769af9201e26f45e0800000000000000
+      internalID: -1923209797312730777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_move_left_end_png_1354831804_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e839d3118e3650800000000000000
+      internalID: 6214546458066610025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_move_left_end_png_1354831804_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd824c6720b3be0800000000000000
+      internalID: -1496599742050148947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
