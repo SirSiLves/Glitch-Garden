@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4355029908104108395}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.012, y: -0.075, z: 0}
+  m_LocalPosition: {x: 0.195, y: -0.021, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4355029909030614246}
@@ -42,6 +42,7 @@ GameObject:
   - component: {fileID: 4355029909030614249}
   - component: {fileID: 4355029909030614247}
   - component: {fileID: 4355029909030614244}
+  - component: {fileID: 1478685719}
   m_Layer: 0
   m_Name: Craftbot
   m_TagString: Untagged
@@ -149,3 +150,16 @@ MonoBehaviour:
   projectile: {fileID: 7059674330276326150, guid: 24fddb1ca15d94b009d37233ee386878,
     type: 3}
   gun: {fileID: 4355029908104108395}
+--- !u!114 &1478685719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4355029909030614248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee4cd34afa8040d2bfd116cfdab0e31, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  starCost: 100
