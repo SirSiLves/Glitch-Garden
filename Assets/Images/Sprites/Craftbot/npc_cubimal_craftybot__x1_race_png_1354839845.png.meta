@@ -1,0 +1,1556 @@
+fileFormatVersion: 2
+guid: 2ece8f7a0646949fe8d5067310b96feb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3947361061952711315
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_0
+  - first:
+      213: 2885984680278556973
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_1
+  - first:
+      213: 4460390455807807330
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_2
+  - first:
+      213: -2319871329478762964
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_3
+  - first:
+      213: 2408503544558368326
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_4
+  - first:
+      213: -7093878621845674692
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_5
+  - first:
+      213: -5347848196414794164
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_6
+  - first:
+      213: 5894817101707961796
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_7
+  - first:
+      213: -6457610480646275212
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_8
+  - first:
+      213: -3360085732246155386
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_9
+  - first:
+      213: -8653669758729309160
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_10
+  - first:
+      213: 2606127442063882935
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_11
+  - first:
+      213: -7304007937479614715
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_12
+  - first:
+      213: 1699676711978488590
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_13
+  - first:
+      213: 6158106406411380132
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_14
+  - first:
+      213: -5824010432140993719
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_15
+  - first:
+      213: 4910026895410911639
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_16
+  - first:
+      213: -2127614268952158132
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_17
+  - first:
+      213: -2494162899281266272
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_18
+  - first:
+      213: -1916256014550228999
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_19
+  - first:
+      213: -4822442351903505853
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_20
+  - first:
+      213: -3349048339054579791
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_21
+  - first:
+      213: -4697987258650756054
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_22
+  - first:
+      213: 4815384555593061742
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_23
+  - first:
+      213: 667308104199270141
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_24
+  - first:
+      213: -5430655574886003493
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_25
+  - first:
+      213: -1535550309281713906
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_26
+  - first:
+      213: 5751292209928091416
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_27
+  - first:
+      213: -4456446437762933725
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_28
+  - first:
+      213: 2196422237942718219
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_29
+  - first:
+      213: -5054286993861146522
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_30
+  - first:
+      213: 3428493159402607832
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_31
+  - first:
+      213: 6438851283937551976
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_32
+  - first:
+      213: 4763826226854746130
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_33
+  - first:
+      213: -8130577343378388050
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_34
+  - first:
+      213: -2532073062023098773
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_35
+  - first:
+      213: -1132093723362820453
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_36
+  - first:
+      213: 3377356084461387655
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_37
+  - first:
+      213: 2394203900875852574
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_38
+  - first:
+      213: 3590280226861292359
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_39
+  - first:
+      213: -8952947738679773402
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_40
+  - first:
+      213: 3966327085358675599
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_41
+  - first:
+      213: 3709867336405958157
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_42
+  - first:
+      213: 3950170529105793939
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_43
+  - first:
+      213: 5216004536767225009
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_44
+  - first:
+      213: 4396964857386690185
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_45
+  - first:
+      213: 4661365405335239088
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_46
+  - first:
+      213: 5472896449430388734
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_47
+  - first:
+      213: 8627467058024693671
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_48
+  - first:
+      213: 2092654127066299551
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_49
+  - first:
+      213: 7258704681582168179
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_50
+  - first:
+      213: -5853050343802999481
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_51
+  - first:
+      213: 2311006608874043330
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_52
+  - first:
+      213: -8575637866716385364
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_53
+  - first:
+      213: 3547963293995073924
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_54
+  - first:
+      213: -7393540724122535478
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_55
+  - first:
+      213: 2549816499838557146
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_56
+  - first:
+      213: 1248523955533268291
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_57
+  - first:
+      213: -7396970805332150670
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_58
+  - first:
+      213: -774499010713821868
+    second: npc_cubimal_craftybot__x1_race_png_1354839845_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a66e9c8f7d7c630800000000000000
+      internalID: 3947361061952711315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21093fa6c31d0820800000000000000
+      internalID: 2885984680278556973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f87f5cc7d76ed30800000000000000
+      internalID: 4460390455807807330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e1ec921592ecfd0800000000000000
+      internalID: -2319871329478762964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646bba58639bc6120800000000000000
+      internalID: 2408503544558368326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35a6297afa7d8d90800000000000000
+      internalID: -7093878621845674692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c469bf34660a8c5b0800000000000000
+      internalID: -5347848196414794164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c563330ce89ec150800000000000000
+      internalID: 5894817101707961796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f3d335b75f166a0800000000000000
+      internalID: -6457610480646275212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f0c9a34d39e51d0800000000000000
+      internalID: -3360085732246155386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814366b143df7e780800000000000000
+      internalID: -8653669758729309160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba7d97c913da2420800000000000000
+      internalID: 2606127442063882935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd4e9aa73f2aa90800000000000000
+      internalID: -7304007937479614715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e035b7ad6f6769710800000000000000
+      internalID: 1699676711978488590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5253b462df57550800000000000000
+      internalID: 6158106406411380132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b11107e55fc2fa0800000000000000
+      internalID: -5824010432140993719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799d49a627be32440800000000000000
+      internalID: 4910026895410911639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40ed0058123972e0800000000000000
+      internalID: -2127614268952158132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9b168ce04f26dd0800000000000000
+      internalID: -2494162899281266272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 52
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff170abe471865e0800000000000000
+      internalID: -1916256014550228999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3420ef83b3e331db0800000000000000
+      internalID: -4822442351903505853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2a07974ac581d0800000000000000
+      internalID: -3349048339054579791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7fc0ba756dceb0800000000000000
+      internalID: -4697987258650756054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65d6058dbea3d240800000000000000
+      internalID: 4815384555593061742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe698a6f21c24900800000000000000
+      internalID: 667308104199270141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdccc69078f62a4b0800000000000000
+      internalID: -5430655574886003493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01b5802121a0bae0800000000000000
+      internalID: -1535550309281713906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8173c341bc1b0df40800000000000000
+      internalID: 5751292209928091416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd59c73958722c0800000000000000
+      internalID: -4456446437762933725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f185563624b7e10800000000000000
+      internalID: 2196422237942718219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668870202c09bd9b0800000000000000
+      internalID: -5054286993861146522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d49c011d54749f20800000000000000
+      internalID: 3428493159402607832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666aa4d0256b5950800000000000000
+      internalID: 6438851283937551976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218dd57a6b28c1240800000000000000
+      internalID: 4763826226854746130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab871ddbf26a2f80800000000000000
+      internalID: -8130577343378388050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e07c037f44cdcd0800000000000000
+      internalID: -2532073062023098773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e7286b1cef940f0800000000000000
+      internalID: -1132093723362820453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f335ef677cede20800000000000000
+      internalID: 3377356084461387655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_38
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b4f8743cbe93120800000000000000
+      internalID: 2394203900875852574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_39
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b1d2e18dc33d130800000000000000
+      internalID: 3590280226861292359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627fa57677db0c380800000000000000
+      internalID: -8952947738679773402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8670d938793b0730800000000000000
+      internalID: 3966327085358675599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3d4ecfa81c7330800000000000000
+      internalID: 3709867336405958157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3935195da23d1d630800000000000000
+      internalID: 3950170529105793939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc16d89d78f26840800000000000000
+      internalID: 5216004536767225009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e86edd38250d30800000000000000
+      internalID: 4396964857386690185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b93d41a32f70b040800000000000000
+      internalID: 4661365405335239088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_47
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff7bc8f252a3fb40800000000000000
+      internalID: 5472896449430388734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af32f8349beab770800000000000000
+      internalID: 8627467058024693671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_49
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cba8957d99a0d10800000000000000
+      internalID: 2092654127066299551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_50
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3788b2b13791cb460800000000000000
+      internalID: 7258704681582168179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_51
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74de42d19b9c5cea0800000000000000
+      internalID: -5853050343802999481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7748b3448521020800000000000000
+      internalID: 2311006608874043330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_53
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf2bffbbc63df880800000000000000
+      internalID: -8575637866716385364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48183b661d5ec3130800000000000000
+      internalID: 3547963293995073924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_55
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ba4252edd46990800000000000000
+      internalID: -7393540724122535478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb9e4bd894c26320800000000000000
+      internalID: 2549816499838557146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_57
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345402f2ce5a35110800000000000000
+      internalID: 1248523955533268291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_58
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276fd3e4e3ea85990800000000000000
+      internalID: -7396970805332150670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_craftybot__x1_race_png_1354839845_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd283d04d6045f0800000000000000
+      internalID: -774499010713821868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
