@@ -273,5 +273,5 @@ MonoBehaviour:
   maxSpwanDelay: 5
   minSpawnDelay: 10
   attackerPrefabArray:
-  - {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c, type: 3}
+  - {fileID: 0}
   - {fileID: 5550950417195338287, guid: 321bb8dc3bb834d308d20588268afae2, type: 3}

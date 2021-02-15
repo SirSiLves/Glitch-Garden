@@ -9,11 +9,24 @@ public class Shooter : MonoBehaviour
     [SerializeField] GameObject projectile, gun;
     AttackerSpawner myLaneSpawner;
     Animator animator;
+    GameObject projectileParent;
+    const string PROJECTILES_PARENT_NAME = "Projectiles";
+
 
     void Start()
     {
         SetLaneSpawner();
         animator = GetComponent<Animator>();
+        CreateProjetctileParent();
+    }
+
+    private void CreateProjetctileParent()
+    {
+        projectileParent = GameObject.Find(PROJECTILES_PARENT_NAME);
+        if (!projectileParent)
+        {
+            projectileParent = new GameObject(PROJECTILES_PARENT_NAME);
+        }
     }
 
     void Update()
@@ -51,6 +64,9 @@ public class Shooter : MonoBehaviour
 
     public void Fire()
     {
-        Instantiate(projectile, gun.transform.position, transform.rotation);
+        GameObject newProjectile = Instantiate(projectile, gun.transform.position, transform.rotation) as GameObject;
+        newProjectile.transform.parent = projectileParent.transform;
+
+
     }
 }
