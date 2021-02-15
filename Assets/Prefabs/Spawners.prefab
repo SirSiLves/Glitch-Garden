@@ -80,8 +80,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpwanDelay: 5
   minSpawnDelay: 10
-  attackerPrefab: {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c,
-    type: 3}
+  attackerPrefabArray:
+  - {fileID: 5550950417195338287, guid: 321bb8dc3bb834d308d20588268afae2, type: 3}
+  - {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c, type: 3}
 --- !u!1 &261335223302568947
 GameObject:
   m_ObjectHideFlags: 0
@@ -127,8 +128,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpwanDelay: 5
   minSpawnDelay: 10
-  attackerPrefab: {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c,
-    type: 3}
+  attackerPrefabArray:
+  - {fileID: 5550950417195338287, guid: 321bb8dc3bb834d308d20588268afae2, type: 3}
+  - {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c, type: 3}
 --- !u!1 &261335223375966596
 GameObject:
   m_ObjectHideFlags: 0
@@ -174,8 +176,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpwanDelay: 5
   minSpawnDelay: 10
-  attackerPrefab: {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c,
-    type: 3}
+  attackerPrefabArray:
+  - {fileID: 5550950417195338287, guid: 321bb8dc3bb834d308d20588268afae2, type: 3}
+  - {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c, type: 3}
 --- !u!1 &261335223787001559
 GameObject:
   m_ObjectHideFlags: 0
@@ -221,8 +224,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpwanDelay: 5
   minSpawnDelay: 10
-  attackerPrefab: {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c,
-    type: 3}
+  attackerPrefabArray:
+  - {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c, type: 3}
+  - {fileID: 5550950417195338287, guid: 321bb8dc3bb834d308d20588268afae2, type: 3}
 --- !u!1 &261335224239402817
 GameObject:
   m_ObjectHideFlags: 0
@@ -268,5 +272,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpwanDelay: 5
   minSpawnDelay: 10
-  attackerPrefab: {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c,
-    type: 3}
+  attackerPrefabArray:
+  - {fileID: 3067320675961303873, guid: ff692fa97255f447191eeca19596964c, type: 3}
+  - {fileID: 5550950417195338287, guid: 321bb8dc3bb834d308d20588268afae2, type: 3}

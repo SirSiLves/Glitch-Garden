@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class StarDisplay : MonoBehaviour
 {
 
-    [SerializeField] int stars = 1000;
+    [SerializeField] int stars = 100;
     Text starText;
 
     void Start()
