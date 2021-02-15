@@ -7,6 +7,7 @@ public class LevelController : MonoBehaviour
 {
 
     [SerializeField] GameObject winLabel;
+    [SerializeField] GameObject loseLabel;
     [SerializeField] float waitingTime = 4f;
     int numberOfAttackers = 0;
     bool levelTimerFinished = false;
@@ -14,7 +15,11 @@ public class LevelController : MonoBehaviour
 
     void Start()
     {
-        winLabel.SetActive(false);
+        if (winLabel && loseLabel)
+        {
+            winLabel.SetActive(false);
+            loseLabel.SetActive(false);
+        }
     }
 
     public void AttackerSpawned()
@@ -30,6 +35,12 @@ public class LevelController : MonoBehaviour
         {
             StartCoroutine(HandleWinCondition());
         }
+    }
+
+    public void HandleLoseCondition()
+    {
+        loseLabel.SetActive(true);
+        Time.timeScale = 0;
     }
 
     IEnumerator HandleWinCondition()
